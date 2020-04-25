@@ -9,6 +9,11 @@
 | RandomForest | 0.9973436861463016 |
 | LightGBM | 0.8781539091926307 |
 
+## USAGE
+```
+python3 pred.py
+```
+
 ## LICENCE
 This software is released under the MIT License, see LICENSE.
 
